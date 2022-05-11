@@ -1,0 +1,23 @@
+.banner{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+.card-white{
+    background: rgb(255, 255, 255);
+    box-shadow: 1px 1px 2px rgb(131, 151, 161);
+    border-radius: 2%;
+}
+
+.card-white:hover {
+    transform: scale(1.01)
+}
+
+body{
+    min-height: 100vh;
+}
+
+.bg-grey{
+    background: rgb(220, 224, 238);
+
+}
