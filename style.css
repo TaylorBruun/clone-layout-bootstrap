@@ -2,6 +2,9 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-variant: small-caps;
 }
+p{
+    margin: 0;
+}
 
 .img-solo-v{
     padding: 0 35%;
@@ -9,6 +12,20 @@
 
 .img-solo-h{
     padding: 0 20%;
+}
+
+.nav-button{
+    border-radius: 50%;
+    min-width: 3em;
+    min-height: 3em;
+    }
+
+.separator{
+    background-color: rgb(131, 151, 161);
+    min-height: .2vh;
+    max-width: 5vh;
+    padding: 0;
+    margin: auto;
 }
 
 .card-white{
